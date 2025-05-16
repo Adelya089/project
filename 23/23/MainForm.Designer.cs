@@ -19,6 +19,7 @@
             }
             base.Dispose(disposing);
         }
+        private System.Windows.Forms.Button instructionsButton;
 
         #region Windows Form Designer generated code
 
@@ -44,6 +45,7 @@
             headValueLabel = new Label();
             tailPanel = new Panel();
             tailValueLabel = new Label();
+            instructionsButton = new Button();
             ((System.ComponentModel.ISupportInitialize)capacityNumericUpDown).BeginInit();
             headPanel.SuspendLayout();
             tailPanel.SuspendLayout();
@@ -215,11 +217,21 @@
             tailValueLabel.TabIndex = 9;
             tailValueLabel.Text = "0";
             // 
+            // instructionsButton
+            // 
+            instructionsButton.Location = new Point(889, 540);
+            instructionsButton.Name = "instructionsButton";
+            instructionsButton.Size = new Size(116, 49);
+            instructionsButton.TabIndex = 0;
+            instructionsButton.Text = "Instructions";
+            instructionsButton.Click += instructionsButton_Click;
+            // 
             // MainForm
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1045, 709);
+            Controls.Add(instructionsButton);
             Controls.Add(tailPanel);
             Controls.Add(headPanel);
             Controls.Add(capacityLabel);

@@ -1,4 +1,6 @@
+C:\Users\adely\Documents\C#\23\23\obj\Debug\net8.0-windows\23.csproj.AssemblyReference.cache
 C:\Users\adely\Documents\C#\23\23\obj\Debug\net8.0-windows\QueueVisualization.InputForm.resources
+C:\Users\adely\Documents\C#\23\23\obj\Debug\net8.0-windows\_23.InstructionsForm.resources
 C:\Users\adely\Documents\C#\23\23\obj\Debug\net8.0-windows\QueueVisualization.MainForm.resources
 C:\Users\adely\Documents\C#\23\23\obj\Debug\net8.0-windows\23.csproj.GenerateResource.cache
 C:\Users\adely\Documents\C#\23\23\obj\Debug\net8.0-windows\23.GeneratedMSBuildEditorConfig.editorconfig
@@ -11,7 +13,6 @@ C:\Users\adely\Documents\C#\23\23\bin\Debug\net8.0-windows\23.runtimeconfig.json
 C:\Users\adely\Documents\C#\23\23\bin\Debug\net8.0-windows\23.dll
 C:\Users\adely\Documents\C#\23\23\bin\Debug\net8.0-windows\23.pdb
 C:\Users\adely\Documents\C#\23\23\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
-C:\Users\adely\Documents\C#\23\23\obj\Debug\net8.0-windows\23.csproj.AssemblyReference.cache
 C:\Users\adely\Documents\C#\23\23\obj\Debug\net8.0-windows\23.csproj.Up2Date
 C:\Users\adely\Documents\C#\23\23\obj\Debug\net8.0-windows\23.dll
 C:\Users\adely\Documents\C#\23\23\obj\Debug\net8.0-windows\refint\23.dll

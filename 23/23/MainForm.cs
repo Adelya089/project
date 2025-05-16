@@ -1,5 +1,6 @@
 ﻿using QueueVisualization.Model;
 using Newtonsoft.Json;
+using _23;
 
 namespace QueueVisualization
 {
@@ -254,6 +255,11 @@ namespace QueueVisualization
             {
                 MessageBox.Show(ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
+        }
+        private void instructionsButton_Click(object sender, EventArgs e)
+        {
+            InstructionsForm instructions = new InstructionsForm();
+            instructions.ShowDialog();
         }
 
         // ------------------- Анимация -------------------
